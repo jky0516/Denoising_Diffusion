@@ -1,4 +1,4 @@
-# Denoising Diffusion Probabilistic Models Project
+# Denoising Diffusion Probabilistic Models for FDF generation
 
 This project implements Denoising Diffusion Probabilistic Models (DDPM) and their conditional variants, 
 including classifier-free sampling and regressor-guided sampling, for studying the generizability of them on low and high Ka data.
